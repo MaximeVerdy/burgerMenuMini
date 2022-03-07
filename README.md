@@ -1,4 +1,4 @@
 ### page HTML/CSS/JS
-#### avec menu burger minimaliste
+#### burger menu minimaliste
 
 ![sreenshot](screenshot1.gif)
