@@ -1,5 +1,4 @@
 ### page HTML/CSS/JS
-#### menu burger basique 
-servant de base pour d'autres projets
+#### menu burger basique. Juste la mécanique
 
 ![sreenshot](screenshot1.gif)
