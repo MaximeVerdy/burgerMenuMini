@@ -7,7 +7,9 @@ bouton.addEventListener("click", () => {
 
      if (visiblity == "yes") {
           ul.setAttribute("visible", "no")
+          bouton.innerHTML = "MENU";
      } else {
           ul.setAttribute("visible", "yes")
+          bouton.innerHTML = "X";
      }
 })
